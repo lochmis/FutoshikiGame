@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=puzz\ p
+comment0.target=NewListener(FutoshikiPuzzle,\ FutoshikiGUI)
+comment0.text=\r\n\ Constructor\ for\ NewListener\r\n\ \r\n\ @param\ puzz\ \ The\ current\ FutoshikiPuzzle\r\n\ @param\ p\ \ \ \ \ The\ GUI\ window\ of\ the\ game\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ The\ method\ set\ the\ number\ of\ pre-sets\ for\ the\ game\ and\ prefill\ the\ puzzle\ with\ that\ ammount\r\n
+numComments=2

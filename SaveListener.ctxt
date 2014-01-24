@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=puzz
+comment0.target=SaveListener(FutoshikiPuzzle)
+comment0.text=\r\n\ Constructor\ for\ SaveListener\r\n\ \r\n\ @param\ puzz\ \ \ The\ current\ FutoshikiPuzzle\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ The\ method\ calls\ the\ function\ saveGame()\ of\ the\ FutoshikiPuzzle\r\n
+numComments=2

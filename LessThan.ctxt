@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=a\ b\ c\ d\ str\ x
+comment0.target=LessThan(int,\ int,\ int,\ int,\ java.lang.String,\ FutoshikiPuzzle)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GreaterThan\r\n\ \r\n\ @param\ a\ \ \ \ \ A\ row\ coordinate\ of\ square\ next\ to\ constraint\r\n\ @param\ b\ \ \ \ \ A\ column\ coordinate\ of\ square\ next\ to\ constraint\r\n\ @param\ c\ \ \ \ \ A\ row\ coordinate\ of\ square\ next\ to\ constraint\r\n\ @param\ d\ \ \ \ \ A\ column\ coordinate\ of\ square\ next\ to\ constraint\r\n\ @param\ str\ \ \ A\ String\ value\ for\ constraint\r\n\ @param\ x\ \ \ \ \ A\ FutoshikiPuzzle\ which\ containts\ the\ constraint\r\n
+comment1.params=
+comment1.target=java.lang.String\ getProblem()
+comment1.text=\r\n\ Shows\ violations\ of\ current\ constraint\r\n\ \r\n\ @return\ \ \ \ \ \ A\ string\ containing\ violations\ of\ current\ constraint\r\n
+comment2.params=
+comment2.target=boolean\ isFine()
+comment2.text=\r\n\ Check\ for\ invalid\ numbers\ in\ FutoshikiSquares\ on\ both\ sides\ of\ constraint\ and\ if\ they\ violate\ the\ constraint\r\n\ \r\n\ @return\ \ \ \ \ \ False\ if\ there\ is\ any\ violation\ of\ constraint,\ true\ otherwise\r\n
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=c\ p\ a
+comment0.target=RCListener(Constraint,\ FutoshikiPuzzle,\ FutoshikiGUI)
+comment0.text=\r\n\ Constructor\ for\ RCListener\r\n\ \r\n\ @param\ c\ \ \ \ \ The\ current\ Constraint\ object\r\n\ @param\ p\ \ \ \ \ The\ current\ FutoshikiPuzzle\r\n\ @param\ a\ \ \ \ \ The\ GUI\ window\ of\ the\ game\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ When\ the\ button\ is\ pressed,\ rotate\ between\ ">"\ "<"\ and\ empty\ constraint\r\n
+numComments=2

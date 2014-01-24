@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=sqr\ puzz
+comment0.target=NumberListener(FutoshikiSquare,\ FutoshikiPuzzle)
+comment0.text=\r\n\ Constructor\ for\ NumberListener\r\n\ \r\n\ @param\ sqr\ \ \ The\ FutoshikiSquare\ that\ has\ been\ clicked\r\n\ @param\ puzz\ \ The\ FutoshikiPuzzle\ that\ contain\ the\ square\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ When\ the\ button\ is\ pressed,\ increase\ its\ value\ by\ 1\ untill\ it\ reach\ the\ gridSize\r\n\ When\ it\ reach\ the\ gridSize\ return\ to\ value\ 0\r\n
+numComments=2

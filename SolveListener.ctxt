@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=puzz
+comment0.target=SolveListener(FutoshikiPuzzle)
+comment0.text=\r\n\ Constructor\ for\ SolveListener\r\n\ \r\n\ @param\ puzz\ \ The\ current\ FutoshikiPuzzle\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ When\ button\ is\ pressed,\ it\ run\ solve()\ function\ of\ current\ game\ and\ prints\ message\ according\ to\ result\r\n
+numComments=2

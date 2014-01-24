@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=puzz\ a
+comment0.target=ResetListener(FutoshikiPuzzle,\ FutoshikiGUI)
+comment0.text=\r\n\ Constructor\ for\ ResetListener\r\n\ \r\n\ @param\ puzz\ \ The\ current\ FutoshikiPuzzle\r\n\ @param\ a\ \ \ \ \ The\ GUI\ window\ of\ the\ game\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ When\ button\ is\ pressed\ it\ restores\ the\ grid\ to\ its\ initial\ state\r\n
+numComments=2

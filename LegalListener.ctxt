@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=b1\ puzz
+comment0.target=LegalListener(javax.swing.JButton,\ FutoshikiPuzzle)
+comment0.text=\r\n\ Constructor\ for\ LegalListener\r\n\ \r\n\ @param\ b1\ \ \ \ Current\ button\r\n\ @param\ puzz\ \ The\ current\ FutoshikiPuzzle\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ When\ button\ is\ pressed,\ run\ isLegal()\ to\ check\ legality\ of\ the\ game\r\n
+numComments=2

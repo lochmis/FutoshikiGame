@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=x\ y\ mValue
+comment0.target=FutoshikiSquare(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ FutoshikiSquare\r\n\ \r\n\ @param\ x\ \ \ \ \ \ \ \ \ Row\ coordinate\ of\ square\r\n\ @param\ y\ \ \ \ \ \ \ \ \ Column\ coordinate\ of\ square\r\n\ @param\ mValue\ \ \ \ Value\ in\ square\r\n
+comment1.params=
+comment1.target=boolean\ getEditable()
+comment1.text=\r\n\ Get\ the\ value\ of\ variable\ "editable"\r\n\ \r\n\ @return\ \ True\ if\ the\ button\ is\ editable,\ False\ otherwise.\r\n
+comment2.params=
+comment2.target=int\ getMainValue()
+comment2.text=\r\n\ Get\ main\ value\ stored\ in\ square\r\n\ \r\n\ @return\ \ \ \ \ \ A\ mainValue\ of\ square\r\n
+comment3.params=
+comment3.target=int\ getSquareColumn()
+comment3.text=\r\n\ Get\ column\ coordinate\ of\ square\r\n\ \r\n\ @return\ \ \ \ \ \ A\ column\ coordinate\ of\ square\r\n
+comment4.params=
+comment4.target=int\ getSquareRow()
+comment4.text=\r\n\ Get\ row\ coordinate\ of\ square\r\n\ \r\n\ @return\ \ \ \ \ \ A\ row\ coordinate\ of\ square\r\n
+comment5.params=
+comment5.target=java.lang.String\ getSymbol()
+comment5.text=\r\n\ Get\ main\ value\ in\ form\ of\ String\r\n\ \r\n\ @return\ \ \ \ \ \ String\ representation\ of\ main\ value\r\n
+comment6.params=a
+comment6.target=void\ setEditable(boolean)
+comment6.text=\r\n\ Set\ the\ value\ editable\ to\ either\ True\ or\ False.\ If\ the\ editable\ is\ false,\ background\ color\ of\ the\ button\ will\ be\ grey.\r\n\ \r\n\ @param\ a\ \ \ \ \ A\ boolean\ value\ to\ set\ variable\ "editable"\r\n
+comment7.params=setValue
+comment7.target=void\ setMainValue(int)
+comment7.text=\r\n\ Change\ the\ main\ value\ of\ square\r\n\ \r\n\ @param\ setValue\ \ \ \ \ \ \ \ \ Main\ value\ for\ the\ square\r\n
+numComments=8

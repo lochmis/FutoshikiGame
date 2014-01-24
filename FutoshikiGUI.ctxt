@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FutoshikiGUI()
+comment0.text=\r\n\ Constructor\ for\ FutoshikiGUI.\ Doesn't\ need\ any\ input.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ for\ FutoshikiGUI\r\n\ \r\n\ @param\ args\ \ \ \ \ \ Please\ leave\ blank\ as\ it\ has\ no\ function\r\n
+comment2.params=
+comment2.target=void\ init()
+comment2.text=\ \r\n\ Set\ up\ the\ GUI,\ creates\ the\ panel\ for\ the\ grid\ and\ creates\ control\ buttons\r\n
+comment3.params=
+comment3.target=void\ setupGrid()
+comment3.text=\r\n\ Erase\ the\ content\ of\ mainGrid\ and\ fill\ it\ up\ with\ the\ actual\ contents\ of\ FutoshikiPuzzle\r\n
+comment4.params=v
+comment4.target=void\ setVisible(boolean)
+comment4.text=\r\n\ Set\ the\ visibility\ of\ FutoshikiGUI\r\n\ \r\n\ @param\ v\ \ \ \ \ A\ boolean\ value\ to\ set\ visibility.\ True\ to\ make\ visible,\ false\ otherwise\r\n
+numComments=5
